@@ -53,6 +53,7 @@ function ReceiptFrom() {
                         className='input-form'
                         style={{ width: '450px' }}
                     />
+                    bfdshbfsdfsdfsdgyf
                 </div>
                 <div className='receipt-form'>
                     <div style={{ width: '25%' }}>
